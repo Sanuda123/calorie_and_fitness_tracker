@@ -1,0 +1,11 @@
+{
+  "isMale": false,
+  "name": "",
+  "weight": 0,
+  "days": [{
+    "activity": 0,
+    "dayNumber": 1,
+    "calories": 0
+  }],
+  "height": 0
+}

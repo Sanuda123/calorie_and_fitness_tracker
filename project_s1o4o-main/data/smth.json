@@ -1,0 +1,18 @@
+{
+    "isMale": false,
+    "name": "Sanuda",
+    "weight": 160,
+    "days": [
+        {
+            "activity": 10,
+            "dayNumber": 1,
+            "calories": 1000
+        },
+        {
+            "activity": 20,
+            "dayNumber": 2,
+            "calories": 2000
+        }
+    ],
+    "height": 160
+}
